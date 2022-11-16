@@ -2,6 +2,12 @@
 
 ## TODO
 
+* Page Basics
+* Query Basics
+* Bootstrap Basics
+* JavaScript Basics
+* JQuery Basics
+* Your First Tabular Report
 
 ## Introduction
 
