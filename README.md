@@ -4,10 +4,8 @@
 
 * Page Basics
 * Query Basics
-* Bootstrap Basics
-* JavaScript Basics
-* JQuery Basics
-* Your First Tabular Report
+* Query as Table Report
+* Query with Parameters as Table Report
 
 ## Introduction
 
